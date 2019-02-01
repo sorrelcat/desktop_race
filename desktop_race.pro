@@ -26,10 +26,14 @@ CONFIG += c++11
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp
+        mainwindow.cpp \
+    track.cpp \
+    racewindow.cpp
 
 HEADERS += \
-        mainwindow.h
+        mainwindow.h \
+    track.h \
+    racewindow.h
 
 FORMS += \
         mainwindow.ui

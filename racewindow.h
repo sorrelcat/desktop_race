@@ -2,6 +2,7 @@
 #define RACEWINDOW_H
 
 #include <QWidget>
+#include <QFrame>
 
 class RaceWindow : public QWidget
 {
